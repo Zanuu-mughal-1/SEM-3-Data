@@ -1,14 +1,4 @@
-"""
-================================================================================
-PANDAS PRACTICE LAB - DATA SCIENCE 3RD SEMESTER
-================================================================================
-Pandas is the premier data manipulation and analysis library for Python.
-It introduces two essential data structures: Series (1D) and DataFrame (2D).
 
-Run this script in terminal:
-    python 02_pandas_practice.py
-================================================================================
-"""
 
 import pandas as pd
 import numpy as np
